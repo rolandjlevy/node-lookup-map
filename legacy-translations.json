@@ -1,0 +1,802 @@
+{
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummarySubHeader": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummarySubHeader",
+    "translation_type": "web",
+    "translation_value": "After You Submit Your Return Request:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummarySubHeader": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummarySubHeader",
+    "translation_type": "web",
+    "translation_value": "După ce trimiteți cererea de returnare:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSubTotalExVAT": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSubTotalExVAT",
+    "translation_type": "web",
+    "translation_value": "Sub Total Ex VAT:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSubTotalExVAT": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSubTotalExVAT",
+    "translation_type": "web",
+    "translation_value": "Sub total fără TVA:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSubmitButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSubmitButton",
+    "translation_type": "web",
+    "translation_value": "Submit Return"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSubmitButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSubmitButton",
+    "translation_type": "web",
+    "translation_value": "\"Trimite returnarea"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#refundSummary": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundSummary",
+    "translation_type": "web",
+    "translation_value": "Refund Summary"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#refundSummary": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundSummary",
+    "translation_type": "web",
+    "translation_value": "\"Rezumatul rambursărilor"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#refundGoodsTotal": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundGoodsTotal",
+    "translation_type": "web",
+    "translation_value": "Refund Total Goods:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#refundGoodsTotal": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundGoodsTotal",
+    "translation_type": "web",
+    "translation_value": "Rambursează totalul bunurilor:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#refundPending": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundPending",
+    "translation_type": "web",
+    "translation_value": "Estimated Refund Pending:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#refundPending": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "refundPending",
+    "translation_type": "web",
+    "translation_value": "Rambursare estimată în așteptare:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnBackButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnBackButton",
+    "translation_type": "web",
+    "translation_value": "Back"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnBackButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnBackButton",
+    "translation_type": "web",
+    "translation_value": "Înapoi"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnCancelButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnCancelButton",
+    "translation_type": "web",
+    "translation_value": "Cancel"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnCancelButton": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnCancelButton",
+    "translation_type": "web",
+    "translation_value": "Anulați"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryRelaxBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryRelaxBold",
+    "translation_type": "web",
+    "translation_value": "Relax, No immediate Action Needed:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryRelaxBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryRelaxBold",
+    "translation_type": "web",
+    "translation_value": "Relaxați-vă, nu este necesară nicio acțiune imediată:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryRelaxText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryRelaxText",
+    "translation_type": "web",
+    "translation_value": "Once you've submitted your request, please don't send the item back just yet. Relax and wait for our team to get in touch."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryRelaxText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryRelaxText",
+    "translation_type": "web",
+    "translation_value": "După ce ați trimis solicitarea, vă rugăm să nu trimiteți încă articolul înapoi. Relaxați-vă și așteptați ca echipa noastră să vă contacteze."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryEmailBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryEmailBold",
+    "translation_type": "web",
+    "translation_value": "Email Confirmation:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryEmailBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryEmailBold",
+    "translation_type": "web",
+    "translation_value": "Confirmare e-mail:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryEmailText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryEmailText",
+    "translation_type": "web",
+    "translation_value": "Within 24 hours, you'll get an email from us acknowledging your return request."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryEmailText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryEmailText",
+    "translation_type": "web",
+    "translation_value": "\"În termen de 24 de ore, veți primi un e-mail de la noi în care vă confirmăm cererea de returnare."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryAuthorisationBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryAuthorisationBold",
+    "translation_type": "web",
+    "translation_value": "Authorisation and Instruction:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryAuthorisationBold": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryAuthorisationBold",
+    "translation_type": "web",
+    "translation_value": "Autorizare și instrucțiuni:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryAuthorisationText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryAuthorisationText",
+    "translation_type": "web",
+    "translation_value": "We'll review your request within 48 hours. If it's authotised, you'll receive a return authorisation number and detailed instruction on how to proceed with your return. Remember: The submission of your return request is just a beginning. No returns are processed without authorisation. So, sit tight, and we'll guide you through the next steps once we've reviewed your request."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryAuthorisationText": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryAuthorisationText",
+    "translation_type": "web",
+    "translation_value": "Vom examina cererea dvs. în termen de 48 de ore. Dacă este autorizată, veți primi un număr de autorizare a returnării și instrucțiuni detaliate despre cum să procedați cu returnarea. Rețineți: trimiterea cererii dvs. de returnare este doar un început . Nicio returnare nu este procesată fără autorizație. Așadar, stați bine și vă vom ghida prin următorii pași după ce vă vom examina solicitarea."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryViewReturnTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryViewReturnTitle",
+    "translation_type": "web",
+    "translation_value": "Need to make changes to your return?"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryViewReturnTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryViewReturnTitle",
+    "translation_type": "web",
+    "translation_value": "Trebuie să faceți modificări la returnarea dvs?"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryViewFooter": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryViewFooter",
+    "translation_type": "web",
+    "translation_value": "If you wish to modify your return items or have other items from this order that you'd like to return, we're here to help. Please reach out to our customer service team at {teamPhone}, and we will assist you with the necessary updates."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryViewFooter": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryViewFooter",
+    "translation_type": "web",
+    "translation_value": "Dacă doriți să modificați articolele returnate sau aveți alte articole din această comandă pe care doriți să le returnați, suntem aici pentru a vă ajuta. Vă rugăm să contactați echipa noastră de asistență pentru clienți la {teamPhone} și noi vă va ajuta cu actualizările necesare."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryTitle",
+    "translation_type": "web",
+    "translation_value": "Your Return Summary:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryTitle",
+    "translation_type": "web",
+    "translation_value": "Rezumatul returnării dvs:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummaryFooter": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryFooter",
+    "translation_type": "web",
+    "translation_value": "Please note that initiating a return request does not guarantee a full refund. Each return is subject to verification based on our return policy guidelines."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSummaryFooter": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSummaryFooter",
+    "translation_type": "web",
+    "translation_value": "Rețineți că inițierea unei cereri de returnare nu garantează o rambursare completă. Fiecare returnare este supusă verificării pe baza regulilor noastre privind politica de returnare."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnQuantityReturning": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityReturning",
+    "translation_type": "web",
+    "translation_value": "Quantity Returning:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnQuantityReturning": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityReturning",
+    "translation_type": "web",
+    "translation_value": "Cantitatea returnată:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReason": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReason",
+    "translation_type": "web",
+    "translation_value": "Reason for Return:"
+  },
+  "www.dev.cromwell.pl#account_customer_services_manage_held_orders#textItem": {
+    "notes": "",
+    "domain": "www.dev.cromwell.pl",
+    "page_key": "account_customer_services_manage_held_orders",
+    "translation_key": "textItem",
+    "translation_type": "web",
+    "translation_value": "Przedmiot"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReason": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReason",
+    "translation_type": "web",
+    "translation_value": "Motivul returnării:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnNotes": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnNotes",
+    "translation_type": "web",
+    "translation_value": "Notes:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnNotes": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnNotes",
+    "translation_type": "web",
+    "translation_value": "Note:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonDuplicateOrder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonDuplicateOrder",
+    "translation_type": "web",
+    "translation_value": "Duplicate Order"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonDuplicateOrder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonDuplicateOrder",
+    "translation_type": "web",
+    "translation_value": "Comanda duplicat"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonExport": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonExport",
+    "translation_type": "web",
+    "translation_value": "Export"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonExport": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonExport",
+    "translation_type": "web",
+    "translation_value": "Export"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonWrongAddress": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongAddress",
+    "translation_type": "web",
+    "translation_value": "Incorrect Delivery-Driver Delivered to Incorrect Place"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonWrongAddress": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongAddress",
+    "translation_type": "web",
+    "translation_value": "Livrare incorectă-Sofer livrat într-un loc incorect"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonInputError": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonInputError",
+    "translation_type": "web",
+    "translation_value": "Incorrect Delivery-Order Input Error"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonInputError": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonInputError",
+    "translation_type": "web",
+    "translation_value": "Eroare incorectă de introducere a comenzii de livrare"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonWrongItemOrdered": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongItemOrdered",
+    "translation_type": "web",
+    "translation_value": "Incorrect item ordered"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonWrongItemOrdered": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongItemOrdered",
+    "translation_type": "web",
+    "translation_value": "Articol comandat incorect"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonWrongItemReceived": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongItemReceived",
+    "translation_type": "web",
+    "translation_value": "Incorrect item received"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonWrongItemReceived": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongItemReceived",
+    "translation_type": "web",
+    "translation_value": "Articol primit incorect"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonWrongQuantityOrdered": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongQuantityOrdered",
+    "translation_type": "web",
+    "translation_value": "Incorrect quantity ordered"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonWrongQuantityOrdered": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongQuantityOrdered",
+    "translation_type": "web",
+    "translation_value": "Cantitatea comandată incorectă"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonWrongQuantityReceived": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongQuantityReceived",
+    "translation_type": "web",
+    "translation_value": "Incorrect quantity received"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonWrongQuantityReceived": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonWrongQuantityReceived",
+    "translation_type": "web",
+    "translation_value": "Cantitate incorectă primită"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonIntlWarehouse": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonIntlWarehouse",
+    "translation_type": "web",
+    "translation_value": "Intl Warehouse"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonIntlWarehouse": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonIntlWarehouse",
+    "translation_type": "web",
+    "translation_value": "Depozit intern"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonNotWhatExpected": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonNotWhatExpected",
+    "translation_type": "web",
+    "translation_value": "Not what I expected"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonNotWhatExpected": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonNotWhatExpected",
+    "translation_type": "web",
+    "translation_value": "Nu este ceea ce mă așteptam"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonDamagedProduct": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonDamagedProduct",
+    "translation_type": "web",
+    "translation_value": "Product damaged"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonDamagedProduct": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonDamagedProduct",
+    "translation_type": "web",
+    "translation_value": "Produs deteriorat"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonProductQuality": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonProductQuality",
+    "translation_type": "web",
+    "translation_value": "Product quality"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonProductQuality": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonProductQuality",
+    "translation_type": "web",
+    "translation_value": "Calitatea produsului"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonOverdue": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonOverdue",
+    "translation_type": "web",
+    "translation_value": "Update required as order overdue"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonOverdue": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonOverdue",
+    "translation_type": "web",
+    "translation_value": "Actualizare necesară deoarece comanda întârziată"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Reason for Return"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Motivul returnării"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnNotesPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnNotesPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Describe what's wrong with the product"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnNotesPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnNotesPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Descrieți ce este în neregulă cu produsul"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnQuantityMin": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityMin",
+    "translation_type": "web",
+    "translation_value": "Return quantity cannot be less than 1"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnQuantityMin": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityMin",
+    "translation_type": "web",
+    "translation_value": "Cantitatea returnată nu poate fi mai mică de 1"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnQuantityMax": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityMax",
+    "translation_type": "web",
+    "translation_value": "Return quantity cannot exceed the quantity ordered"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnQuantityMax": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityMax",
+    "translation_type": "web",
+    "translation_value": "Cantitatea returnată nu poate depăși cantitatea comandată"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnQuantityPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Qty"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnQuantityPlaceholder": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityPlaceholder",
+    "translation_type": "web",
+    "translation_value": "Qty"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#vatTotal": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "vatTotal",
+    "translation_type": "web",
+    "translation_value": "VAT Total:"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#vatTotal": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "vatTotal",
+    "translation_type": "web",
+    "translation_value": "TVA total:"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnSuccessfullySubmitted": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSuccessfullySubmitted",
+    "translation_type": "web",
+    "translation_value": "Your return request has been submitted successfully."
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnSuccessfullySubmitted": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnSuccessfullySubmitted",
+    "translation_type": "web",
+    "translation_value": "Solicitarea dvs. de returnare a fost trimisă cu succes."
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnQuantityRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityRequired",
+    "translation_type": "web",
+    "translation_value": "Return Quantity Required"
+  },
+  "www.dev.cromwell.cz#account_administration_order_routing#labelConditionContains": {
+    "notes": "",
+    "domain": "www.dev.cromwell.cz",
+    "page_key": "account_administration_order_routing",
+    "translation_key": "labelConditionContains",
+    "translation_type": "web",
+    "translation_value": "Obsahuje"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnQuantityRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnQuantityRequired",
+    "translation_type": "web",
+    "translation_value": "Cantitatea returnată necesară"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnReasonRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonRequired",
+    "translation_type": "web",
+    "translation_value": "Return Reason Required"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnReasonRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnReasonRequired",
+    "translation_type": "web",
+    "translation_value": "Motivul returnării este necesar"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#returnCommentRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnCommentRequired",
+    "translation_type": "web",
+    "translation_value": "Return Comment Required"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#returnCommentRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "returnCommentRequired",
+    "translation_type": "web",
+    "translation_value": "Return comentariul obligatoriu"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#areYouSureCancelReturn": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "areYouSureCancelReturn",
+    "translation_type": "web",
+    "translation_value": "Are you sure you want to cancel the return? All actions will not be saved"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#areYouSureCancelReturn": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "areYouSureCancelReturn",
+    "translation_type": "web",
+    "translation_value": "Sunteți sigur că doriți să anulați returnarea? Toate acțiunile nu vor fi salvate"
+  },
+  "www.dev.cromwell.co.uk#account_purchases_orders#cancelMyReturnTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.co.uk",
+    "page_key": "account_purchases_orders",
+    "translation_key": "cancelMyReturnTitle",
+    "translation_type": "web",
+    "translation_value": "Cancel My Return"
+  },
+  "www.dev.cromwell.ro#account_purchases_orders#cancelMyReturnTitle": {
+    "notes": "",
+    "domain": "www.dev.cromwell.ro",
+    "page_key": "account_purchases_orders",
+    "translation_key": "cancelMyReturnTitle",
+    "translation_type": "web",
+    "translation_value": "Anulați întoarcerea mea"
+  },
+  "www.dev.cromwell.pl#account_menu_and_overview#company-profile-contracted-products-title": {
+    "notes": "",
+    "domain": "www.dev.cromwell.pl",
+    "page_key": "account_menu_and_overview",
+    "translation_key": "company-profile-contracted-products-title",
+    "translation_type": "web",
+    "translation_value": "Produkty pod umową"
+  },
+  "www.dev.cromwell.hu#account_purchases_orders#textOrderedOn": {
+    "notes": "",
+    "domain": "www.dev.cromwell.hu",
+    "page_key": "account_purchases_orders",
+    "translation_key": "textOrderedOn",
+    "translation_type": "web",
+    "translation_value": "Rendelve"
+  },
+  "www.dev.cromwell.pl#basket#delivery": {
+    "notes": "",
+    "domain": "www.dev.cromwell.pl",
+    "page_key": "basket",
+    "translation_key": "delivery",
+    "translation_type": "web",
+    "translation_value": "Dostawa"
+  },
+  "www.dev.cromwell.pl#order_tracking#textSignature": {
+    "notes": "",
+    "domain": "www.dev.cromwell.pl",
+    "page_key": "order_tracking",
+    "translation_key": "textSignature",
+    "translation_type": "web",
+    "translation_value": "Podpis"
+  },
+  "www.dev.cromwell.hu#form_error_text#deliveryContactEmailRequired": {
+    "notes": "",
+    "domain": "www.dev.cromwell.hu",
+    "page_key": "form_error_text",
+    "translation_key": "deliveryContactEmailRequired",
+    "translation_type": "web",
+    "translation_value": "Szállítási kapcsolattartó e-mail cím szükséges."
+  },
+  "www.dev.cromwell.pl#account_customer_services_manage_held_orders#textItems": {
+    "notes": "",
+    "domain": "www.dev.cromwell.pl",
+    "page_key": "account_customer_services_manage_held_orders",
+    "translation_key": "textItems",
+    "translation_type": "web",
+    "translation_value": "Przedmioty"
+  }
+}

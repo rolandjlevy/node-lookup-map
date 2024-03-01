@@ -1,4 +1,4 @@
--- generates a JSON lookup map which has unique keys
+-- generates a JSON lookup map with unique keys
 
 SELECT json_object_agg(concat(domain, '#', page_key, '#', translation_key), translation) AS translations_object
 FROM (

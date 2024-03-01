@@ -1,25 +1,4 @@
-const legacyLookupMap = {
-  "www.dev.cromwell.co.uk#account_purchases_orders#returnSummarySubHeader": {
-    "domain": "www.dev.cromwell.co.uk",
-    "page_key": "account_purchases_orders",
-    "translation_key": "returnSummarySubHeader",
-    "translation_type": "web",
-    "translation_value": "After You Submit Your Return Request:"
-  },
-  "www.dev.cromwell.ro#account_purchases_orders#returnSummarySubHeader": {
-    "domain": "www.dev.cromwell.ro",
-    "page_key": "account_purchases_orders",
-    "translation_key": "returnSummarySubHeader",
-    "translation_type": "web",
-    "translation_value": "După ce trimiteți cererea de returnare:"
-  },
-  "www.dev.cromwell.co.uk#account_purchases_orders#returnSubTotalExVAT": {
-    "domain": "www.dev.cromwell.co.uk",
-    "page_key": "account_purchases_orders",
-    "translation_key": "returnSubTotalExVAT",
-    "translation_type": "web",
-    "translation_value": "Sub Total Ex VAT:"
-  }};
+const legacyLookupMap = require('./legacy-translations.json')
 
 const featureArray = [{
   "domain": "www.dev.cromwell.co.uk",
@@ -36,10 +15,15 @@ const featureArray = [{
   "translation_value": "Sub Total Ex VAT:"
 }];
 
+// helper function to get key
 const getKey = ({ domain, page_key, translation_key}) => `${domain}#${page_key}#${translation_key}`;
 
-const key0 = getKey(featureArray[0]);
-const key1 = getKey(featureArray[1]);
+const result = featureArray.map(item => {
+  const key = getKey(item);
+  const found = legacyLookupMap[key];
+  let msg = `translation with key: '${key}' `;
+  msg += found ? `exists -> ${JSON.stringify(found, null, 2)}\n` : `doesn't exist\n`
+  return msg;
+}).join('')
 
-console.log('Feature exists:', 'key:', key0, legacyLookupMap[key0]);
-console.log('Feature does not exists:', 'key:', key1, legacyLookupMap[key1]);
+console.log(result);
